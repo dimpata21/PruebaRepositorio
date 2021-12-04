@@ -22,6 +22,7 @@ public class Main {
         
         System.out.println("Digite un numero: ");
         numero = entrada.nextInt();
+        //Se guarda un número
         
         System.out.println("El numero es: " + numero);
         
